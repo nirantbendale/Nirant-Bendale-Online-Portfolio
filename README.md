@@ -1,4 +1,4 @@
-# [Nirant's Portfolio](https://github.com/nirantbendale)
+
 ## Welcome to my online portfolio created using Github. This portfolio showcases different projects using languages like Python, and R to critically process, analyse, visualize the data while also focusing on implmenting machine learning algorithms.
 
 ## [Project 1: Linear Regression using Boston Housing Dataset](https://github.com/nirantbendale/Linear-Regression)
