@@ -1,4 +1,5 @@
-# **Portfolio**
+# [Nirant's Portfolio](https://github.com/nirantbendale)
+## Welcome to my online portfolio created using Github. This portfolio showcases different projects using languages like Python, and R to critically process, analyse, visualize the data while also focusing on implmenting machine learning algorithms.
 
 ## [Project 1: Linear Regression using Boston Housing Dataset](https://github.com/nirantbendale/Linear-Regression)
 **The "Boston Housing Prices Prediction with Linear Regression" project demonstrates a step-by-step approach to predicting housing prices using Linear Regression. It begins with data exploration and visualization, followed by model building, training, and evaluation. The project highlights the importance of EDA in understanding the dataset and selecting relevant features. The Linear Regression model provides insights into feature importance and predicts housing prices with reasonable accuracy.**
