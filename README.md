@@ -1,21 +1,26 @@
 
 ## Welcome to my online portfolio created using Github. This portfolio showcases different projects using languages like Python, and R to critically process, analyse, visualize the data while also focusing on implmenting machine learning algorithms.
 
-## [Project 1: Keras using Tensorflow using Credit card dataset for fraud detection](https://github.com/nirantbendale/Keras-Tensorflow)
+## [Job Shop Scheduling Task](https://github.com/nirantbendale/Job-Shop-Scheduling-Task)
+**This project tackles the Job Shop Scheduling Task, aiming to optimize the scheduling of 6 jobs across 4 machines with a single team assigned to each job. Utilizing Constraint Programming (CP) via the OR-Tools library, it formulates the problem by expressing relationships between variables as constraints. The process involves data organization using Pandas, representing tasks as intervals, and imposing constraints on task sequencing and machine usage. The CP-SAT solver iteratively explores the solution space to find an optimal schedule. Upon solution, a Gantt chart visualizes the assigned tasks. Overall, the project efficiently orchestrates job scheduling through CP techniques and data manipulation, ensuring optimal resource utilization.**
+
+## [Keras using Tensorflow using Credit card dataset for fraud detection](https://github.com/nirantbendale/Keras-Tensorflow)
 **Credit Card Fraud Detection with Keras and TensorFlow" is a comprehensive project that guides you through the creation of a powerful machine learning model to identify fraudulent credit card transactions. This project encompasses data exploration, preprocessing, deep learning model building using Keras, model training, evaluation using advanced metrics like ROC-AUC, and saving the model for future use. By the end of this project, you'll have the skills to address real-world classification problems, with a focus on fraud detection, using cutting-edge tools and techniques.**
 
-## [Project 2: Repository showcasing advanced use cases of Pandas library](https://github.com/nirantbendale/Everything-Pandas)
+## [Repository showcasing advanced use cases of Pandas library](https://github.com/nirantbendale/Everything-Pandas)
 **This GitHub repository serves as an invaluable resource for individuals looking to start their journey in data analysis with Python and Pandas. Each chapter offers hands-on experience and practical knowledge, building a strong foundation for data manipulation, analysis, and visualization. Whether you are a beginner or looking to reinforce your Pandas skills, this repository provides a structured and accessible path to becoming a confident Pandas user.**
 
-## [Project 3: Web Scraping using Python](https://github.com/nirantbendale/Web-Scraping-using-Python)
+## [Web Scraping using Python](https://github.com/nirantbendale/Web-Scraping-using-Python)
 **Dedicated tasks to demonstrate core skills like web scraping, data cleaning, analysis and visualization using Python and its extensive data science libraries. The output moved from basic data gathering to more advanced analytic techniques and compelling visuals. By providing annotated code and detailed explanations, this response provides a thorough overview of the approach taken to complete these data focused tasks.**
 
-## [Project 4: Tree-based-classification-model](https://github.com/nirantbendale/Tree-based-classification-model)
+## [Tree-based-classification-model](https://github.com/nirantbendale/Tree-based-classification-model)
 **The project concludes by summarizing the findings and model assessment. The dataset is imported and explored thoroughly. A decision tree model is constructed, and its performance is evaluated and subsequently improved through pruning. The pruned model exhibits enhanced generalization and predictive accuracy. The significance of model assessment and selection is highlighted, as they are crucial components of any machine learning project. This project serves as a practical illustration of classification modeling and underscores the iterative process involved in enhancing models for improved performance and interpretability.**
 
-## [Project 5: Linear Regression using Boston Housing Dataset](https://github.com/nirantbendale/Linear-Regression)
+## [Linear Regression using Boston Housing Dataset](https://github.com/nirantbendale/Linear-Regression)
 **The "Boston Housing Prices Prediction with Linear Regression" project demonstrates a step-by-step approach to predicting housing prices using Linear Regression. It begins with data exploration and visualization, followed by model building, training, and evaluation. The project highlights the importance of EDA in understanding the dataset and selecting relevant features. The Linear Regression model provides insights into feature importance and predicts housing prices with reasonable accuracy.**
 **This project serves as a foundational example for regression tasks, showcasing the application of machine learning to real-world datasets and the importance of data analysis in the modeling process.**
 
-## [Project 6: Logistic Regression using RMS Titanic Dataset](https://github.com/nirantbendale/Logistic-Regression)
+## [Logistic Regression using RMS Titanic Dataset](https://github.com/nirantbendale/Logistic-Regression)
 **This project utilizes Logistic Regression to predict passenger survival on the Titanic based on key factors like passenger class, gender, and age. After loading and preprocessing the dataset, exploratory data analysis is performed to uncover insights and correlations. Relevant features are selected, data is split for training and testing, and the Logistic Regression model is trained. Predictions are made, and the model's accuracy is evaluated using metrics like accuracy and a confusion matrix. The project serves as an illustrative example of binary classification using a classic dataset, demonstrating how machine learning can be applied to real-world scenarios, such as predicting survival outcomes in historical events.**
+
+
