@@ -1,6 +1,9 @@
 
 ## Welcome to my online portfolio created using Github. This portfolio showcases different projects using languages like Python, and R to critically process, analyse, visualize the data while also focusing on implmenting machine learning algorithms.
 
+## [E-commerce Database System](https://github.com/nirantbendale/E-Commerce-Database-System)
+**Engineered a comprehensive MySQL database system that serves as the backbone for a complete e-commerce platform, featuring robust user management, product cataloging, and order processing capabilities. Implemented advanced database features including stored procedures for cart and order management, triggers for automated inventory updates, and optimized views for real-time business analytics. Developed a scalable architecture using proper normalization and indexing strategies, ensuring efficient data retrieval while maintaining ACID compliance across all transactions. The system includes sophisticated analytics for customer segmentation, sales performance tracking, and inventory management, enabling data-driven business decisions through complex SQL queries and joins.**
+
 ## [Job Shop Scheduling Task](https://github.com/nirantbendale/Job-Shop-Scheduling-Task)
 **This project tackles the Job Shop Scheduling Task, aiming to optimize the scheduling of 6 jobs across 4 machines with a single team assigned to each job. Utilizing Constraint Programming (CP) via the OR-Tools library, it formulates the problem by expressing relationships between variables as constraints. The process involves data organization using Pandas, representing tasks as intervals, and imposing constraints on task sequencing and machine usage. The CP-SAT solver iteratively explores the solution space to find an optimal schedule. Upon solution, a Gantt chart visualizes the assigned tasks. Overall, the project efficiently orchestrates job scheduling through CP techniques and data manipulation, ensuring optimal resource utilization.**
 
