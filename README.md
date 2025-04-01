@@ -1,6 +1,18 @@
 
 ## Welcome to my online portfolio created using Github. This portfolio showcases different projects using languages like Python, SQL and R to critically process, analyse, visualize the data while also focusing on implmenting machine learning algorithms.
 
+## [Time Series Analysis and Forecasting](https://github.com/nirantbendale/Time-Series-Analysis-with-SARIMAX)
+**This repository contains code for analyzing and forecasting trends on variables variables using time series analysis methods. The project processes a dataset across different countries and locations, performs exploratory data analysis, and builds SARIMAX forecasting models.**
+
+## [Machine Learning Fault Classification System](https://github.com/nirantbendale/Machine-Learning-Fault-Classification-System)
+**This project develops a multi-class machine learning system for fault type classification, implementing four advanced machine learning models to diagnose system faults with high accuracy and interpretability.**
+
+## [Ollama based Computer Diagnostics Chatbot](https://github.com/nirantbendale/Ollama-Gemma3-Chatbot)
+**This is an intelligent diagnostic chatbot designed to help users troubleshoot computer issues using advanced natural language processing techniques. The chatbot combines semantic search with a local language model to provide targeted technical support for various computer problems.**
+
+## [E-commerce Database System](https://github.com/nirantbendale/E-Commerce-Database-System)
+**A comprehensive MySQL database solution designed for e-commerce platforms. This project implements a complete database structure with user management, product cataloging, shopping cart functionality, order processing, and advanced analytics capabilities.**
+
 ## [Full-stack Development Project](https://github.com/nirantbendale/fullstack-development)
 **The "Multiplication Calculator" is a web application designed to multiply two numbers and store the results in a MySQL database. The project is structured with a frontend and a backend, each managed separately. The frontend, built with modern web technologies, provides a user-friendly interface for inputting numbers and viewing results. The backend handles the core logic of multiplication and manages data storage, interfacing with the MySQL database to record each calculation along with a timestamp. To set up the application, users need to install the necessary dependencies for both frontend and backend, configure a MySQL database with a specific schema, update the backend environment settings with database credentials, and run both the backend and frontend servers. Once operational, the application can be accessed locally through a web browser.**
 
